@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @killerlearner
-- 👀 I’m interested in some Hacking and little codding. 
-- 🌱 I’m currently learning everything. 
-- 📫 You can reach me via any platform like Telegram, Facebook, Instagram, Twitter etc. 
+<!-- Typing SVG Here -->
+<br>
+<br>
 
-<!---
-killerlearner/killerlearner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&color=%23089255&size=33&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Killerlearner!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+<!-- Intro Here -->
+<br>
+<br>
+
+<p>
+  <b>
+    Hi, I'm Killerlearner
+    <img height=30 width=30 src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif">
+    <br>
+    Learning whatever I can... 
+    <br>
+  </b>
+</p>
+
