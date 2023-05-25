@@ -6,8 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&color=%23089255&size=33&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Killerlearner!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!-- Intro Here -->
-<br>
-<br>
+
 
 <p>
   <b>
